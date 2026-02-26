@@ -4,4 +4,6 @@ The Poultry Disease Detection System is a deep learning-based application design
 
 The model achieves 98% test accuracy with strong Precision, Recall, and F1-scores of 0.98, demonstrating robust classification performance. ROC analysis shows excellent class separability with an AUC score close to 1.00. The system enables early disease detection, reducing mortality rates and economic losses in poultry farming. Overall, the project contributes to smart agriculture by providing an efficient, scalable, and reliable AI-based diagnostic solution.
 
+Dataset Link: https://www.kaggle.com/datasets/kausthubkannan/poultry-diseases-detection
+
 Webpage Link: https://capstoneai14-poultry-disease-classifier.hf.space/
